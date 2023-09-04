@@ -1,0 +1,7 @@
+name: region
+main: net.premierstudios.region.RegionPlugin
+author: zRomaGod_
+version: 1.0.0
+api-version: 1.19
+commands:
+  region:
